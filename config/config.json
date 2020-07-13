@@ -1,1 +1,15 @@
-{}
+{
+  "theme": {
+    "slug": "lightning",
+    "name": "Lightning",
+    "author": "Heather New"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "wprig.local",
+      "bypassPort": "8181",
+      "https": true
+    }
+  }
+}
